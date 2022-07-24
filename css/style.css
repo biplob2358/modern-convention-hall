@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.img-fluid{
+    width: 100%;
+    height: 80vh;
+}
+.wedding{
+    width: 100%;
+}
+.pricing-header {
+    max-width: 700px;
+  }
+  
+  .card-deck .card {
+    min-width: 220px;
+  }
+  
+  .border-top { border-top: 1px solid #e5e5e5; }
+  .border-bottom { border-bottom: 1px solid #e5e5e5; }
+  .box-shadow{
+    border: none;
+    box-shadow: 5px 2px 40px gray;
+  }
+  .special{
+    background-color: #3F87F5;
+  }
+  .btn-pr{
+    background-color: white;
+    color: #3F87F5;
+  }
+  .people img{
+    width: 50%;
+    
+  }
+  .img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+  .image{
+    width: 100%;
+  }
+  .form-control {
+    background: #212529;
+    border-color: #545454;
+  }
+  
+  .form-control:focus {
+    background: #212529;
+  }
+  
+  footer {
+    background: #212529;
+  }
